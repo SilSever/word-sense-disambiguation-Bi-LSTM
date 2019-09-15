@@ -1,0 +1,13 @@
+<PAD>	0
+<UNK>	1
+adv	2
+adj	3
+verb	4
+pron	5
+adp	6
+det	7
+noun	8
+conj	9
+prt	10
+num	11
+x	12
